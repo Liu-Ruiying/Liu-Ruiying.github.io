@@ -26,3 +26,4 @@ redirect_from:
 # News 📧
 - `2025.5.22` Our project got [provincial Fund](https://jwc.zuel.edu.cn/2025/0522/c5768a392234/page.htm).
 - `2025.5.19` I led a team and got third prize of [Central China Mathematical Modeling Competition](http://www.hzbmmc.com/views/award/award-item.html?navigate=inform&id=1923308824495611905)!
+- `2025.5.5` I led a team and got [Honourable Metion of Mathematical Contest In Modeling](https://www.comap-math.org/mcm/2025Certs/2513588.pdf)
