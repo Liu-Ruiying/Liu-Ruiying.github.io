@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🤗 Welcome to My Homepage!"
+title: "💖 Welcome to My Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-👋 Hi, I'm Ruiying Li (刘芮莹), currently pursuing a bachelor's degree in **Economics and Finance**  (2023-2027) at the Wenlan School of Business, Zhongnan University of Economics and Law. 
+👋 Hi, I'm Ruiying Liu (刘芮莹), currently pursuing a bachelor's degree in **Economics and Finance**  (2023-2027) at the Wenlan School of Business, Zhongnan University of Economics and Law. 
 
 🎓 From 2024 to February 2025, I am honored to be mentored by [Prof. Yin Chu](https://yinchu.yolasite.com) of Zhongnan University of Economics and Law. Our research focuses on  **Applied Microeconometrics**  **Environmental Economic**.
 
@@ -21,7 +21,7 @@ redirect_from:
 # Research Interests 🔍
 - Applied Microeconometrics
 - Environmental Economic
-- Meachine Learning
+- Machine Learning
 
 # News 📧
 - `2025.5.22` Our project got [provincial Fund](https://jwc.zuel.edu.cn/2025/0522/c5768a392234/page.htm).
