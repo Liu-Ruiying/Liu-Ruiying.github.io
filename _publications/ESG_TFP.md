@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/ESG_TFP
 excerpt: 'We have completed the initial work and will refine it further this summer.'
 date: 2025-5-01
-venue: 'SSRRn'
+venue: 'SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5122999'
 citation: 'Coming Soon'
 ---
