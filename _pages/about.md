@@ -8,32 +8,21 @@ redirect_from:
 ---
 
 
-👋 Hi, I'm Zhanli Li (李展利), currently pursuing a bachelor's degree in **Digital Economy**  (2023-2027) at the Wenlan School of Business, Zhongnan University of Economics and Law. 
+👋 Hi, I'm Ruiying Li (刘芮莹), currently pursuing a bachelor's degree in **Economics and Finance**  (2023-2027) at the Wenlan School of Business, Zhongnan University of Economics and Law. 
 
-🎓 From 2024 to February 2025, I am honored to be mentored by [Prof. Zichao Yang](https://www.yzc.me) of Zhongnan University of Economics and Law. Our research focuses on  **machine learning**  **microeconometrics**, and  **corporate finance**.
+🎓 From 2024 to February 2025, I am honored to be mentored by [Prof. Yin Chu](https://yinchu.yolasite.com) of Zhongnan University of Economics and Law. Our research focuses on  **Applied Microeconometrics**  **Environmental Economic**.
 
-💻 Currently, I am an intern working with [Prof. Yixuan Cao](https://yixuancao.github.io/) at the Institute of Computing Technology, Chinese Academy of Sciences, where we are building cutting-edge **Document Agent** framework.
+💻 Currently, I am working on **Political and Environmental Micro-empirical Research** with [Prof. Yin Chu](https://yinchu.yolasite.com), in the near feature, I will work with [Zhanli Li](https://zhanli-li.github.io) in **CSR Text Topic Modelling Micro-empirical Research**.
 
-🎯 I am eager to pursue a PhD in: 
--  Computer Science
--  Data Science
--  Statistics  
--  Fintech
+💬 If you have any ideas about my work or potential collaborations, feel free to reach out via email: liuruiying@stu.zuel.edu.cn
 
-💬 If you have any ideas about my work or potential collaborations, feel free to reach out via email: lizhanli@stu.zuel.edu.cn
-
-*🌱 Building AI for a brighter future. Let's connect! 🤝*
+*🌱 Building AI for a brighter future of finance. Let's connect! 🤝*
 
 # Research Interests 🔍
-- LLM
-- Deep Learning
 - Applied Microeconometrics
+- Environmental Economic
+- Meachine Learning
 
 # News 📧
-- `2025.5.19` I led a team and got first prize of [Central China Mathematical Modeling Competition](http://www.hzbmmc.com/views/award/award-item.html?navigate=inform&id=1923308824495611905)(top 3% in all teams)!
-- `2025.5.6` [Emotion Classification with Rotated Position Encoding](https://github.com/Zhanli-Li/ROPE-BERT) coding for my coursework open-sourced at GitHub.
-- `2025.4` Start exploring how to use Agents for multi-hop, multi-document quizzes with [Prof. Yixuan Cao](https://yixuancao.github.io/) and [Prof. Ping Luo](https://ping-luo.github.io/).
-- `2025.3.13` I was invited as a reviewer of *Finance Research Letters*.
-- `2025.3.8` *[ESG rating disagreement and corporate Total Factor Productivity: Inference and prediction](https://www.sciencedirect.com/science/article/abs/pii/S1544612325003903)* had been published online.
-- `2025.2` I joined the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences and will work with [Prof. Yixuan Cao](https://yixuancao.github.io/).
-- `2024.11.4` I was [Finalist of Tsinghua University Big Data and Causal Inference Seminar](https://lcg.tsinghua.edu.cn/info/1022/1852.htm).
+- `2025.5.22` Our project got [provincial Fund](https://jwc.zuel.edu.cn/2025/0522/c5768a392234/page.htm).
+- `2025.5.19` I led a team and got third prize of [Central China Mathematical Modeling Competition](http://www.hzbmmc.com/views/award/award-item.html?navigate=inform&id=1923308824495611905)(top 3% in all teams)!
