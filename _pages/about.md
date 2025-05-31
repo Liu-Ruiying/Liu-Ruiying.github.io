@@ -25,4 +25,4 @@ redirect_from:
 
 # News 📧
 - `2025.5.22` Our project got [provincial Fund](https://jwc.zuel.edu.cn/2025/0522/c5768a392234/page.htm).
-- `2025.5.19` I led a team and got third prize of [Central China Mathematical Modeling Competition](http://www.hzbmmc.com/views/award/award-item.html?navigate=inform&id=1923308824495611905)(top 3% in all teams)!
+- `2025.5.19` I led a team and got third prize of [Central China Mathematical Modeling Competition](http://www.hzbmmc.com/views/award/award-item.html?navigate=inform&id=1923308824495611905)!
