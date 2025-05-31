@@ -10,7 +10,7 @@ redirect_from:
 
 👋 Hi, I'm Ruiying Liu (刘芮莹), currently pursuing a bachelor's degree in **Economics and Finance**  (2023-2027) at the Wenlan School of Business, Zhongnan University of Economics and Law. 
 
-🎓 I am honored to be mentored by [Prof. Yin Chu](https://yinchu.yolasite.com) of Zhongnan University of Economics and Law. Our research focuses on  **Applied Microeconometrics**  **Environmental Economic**.
+🎓 I am honored to be mentored by [Prof. Yin Chu](https://yinchu.yolasite.com) of Zhongnan University of Economics and Law. Our research focuses on  **Applied Microeconometrics and Environmental Economic**.
 
 💻 Currently, I am working on **Political and Environmental Micro-empirical Research** with [Prof. Yin Chu](https://yinchu.yolasite.com), in the near feature, I will work with [Zhanli Li](https://zhanli-li.github.io) in **CSR Text Topic Modelling Micro-empirical Research**.
 
