@@ -9,34 +9,34 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhanli Li / 李展利"
+title                    : "Ruiying Liu / 刘芮莹"
 title_separator          : "-"
-name                     : &name "Zhanli Li"
+name                     : &name "Ruiying Liu"
 description              : &description "personal description"
-url                      : https://zhanli-li.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://Liu-Ruiying.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Zhanli-Li/Zhanli-Li.github.io"
+repository               : "Liu-Ruiying/Liu-Ruiying.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "微信图片_20250430001943.jpg"
-  name             : "Zhanli Li"
+  avatar           : "liuruiying.jpg"
+  name             : "Ruiying Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Make AI trustworthy"
+  bio              : "Enrich World"
   location         : "Wuhan, China"
   employer         : "Zhongnan University of Economics and Law"
   uri              : # URL
-  email            : "lizhanli@stu.zuel.edu.cn" 
+  email            : "liuruiying@stu.zuel.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=LW5bAdAAAAAJ&hl=en"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0002-3551-8582"
+  orcid            : #URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Zhanli-Li"
+  github           : "Liu-Ruiying"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
